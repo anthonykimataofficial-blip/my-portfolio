@@ -91,7 +91,7 @@ export default function Home() {
     {(
       [
         { img: "/web.png", title: "Web Development Project" },
-        { img: "/mobile1.jfif", title: "Mobile App Project" },
+        { img: "/mobile.jpeg", title: "Mobile App Project" },
         { img: "/design.png", title: "UI/UX Design Project" },
       ]
     ).map((project, i) => (
